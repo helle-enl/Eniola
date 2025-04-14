@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.boddy{
+    background-color: rgb(132, 179, 132);
+    width: 300px;
+    align-items: center;
+    /* text-align: center; */
+    margin: auto;
+    padding: 3px 10px 3px 10px;
+    height: 450px;
+    border-radius: 10px;
+    
+}
+.farm{
+    color: white;
+    text-align: center;
+    /* color: darkmagenta; */
+    padding: 25px;
+}
+.well{
+    color: black;
+    text-align: center;
+}
+.cred{
+    text-align: center;
+}
+.regis{
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.put{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 0px 40px 0px 0px;
+}
+.log{
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(54, 79, 54);
+    color: white;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.for{
+    border: none;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* margin: 40px 0px 0px 100px; */
+}
+.donsign{
+    margin: 20px 0px 0px 0px;
+}
+.sig{
+    text-decoration: none;
+}
